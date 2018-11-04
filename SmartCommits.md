@@ -3,5 +3,6 @@ With [Smart Commits documentation](https://confluence.atlassian.com/jirasoftware
 + record time tracking information against issues
 + transition issues to any status defined in the Jira Software project's workflow.
 
+Notes:
 + **Show examples**
 + **Should discuss *Notes* section**
