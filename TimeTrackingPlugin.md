@@ -1,4 +1,4 @@
-Free Google Chrome extension for time tracking [Jira Assistant](https://confluence.atlassian.com/jirasoftwarecloud/viewing-the-development-information-for-an-issue-777002795.html) 
+Free Google Chrome extension for time tracking [Jira Assistant](https://chrome.google.com/webstore/detail/jira-assistant/momjbjbjpbcbnepbgkkiaofkgimihbii) 
 Provide ability to export time report in csv format 
 
 | User Details                                  | Oct, 2018 |           | Nov, 2018 |         |         |           |           | Total Hours |
